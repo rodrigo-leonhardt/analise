@@ -1,4 +1,6 @@
-﻿namespace Analise
+﻿using System.Linq;
+
+namespace Analise
 {
 
     class Program 
@@ -31,14 +33,27 @@
         {
             Console.WriteLine("-- ListarClientesPorCidade --");
 
-            Console.WriteLine($"Z clientes residem em Y");
+            var cidades = _clientes.GroupBy(x => x.Cidade);
+
+            foreach(var cidade in cidades)
+            {
+                Console.WriteLine($"{cidade.Count()} clientes residem em {cidade.Key}");
+
+                foreach(var cliente in cidade)                
+                    Console.WriteLine($" {cliente.Nome}");
+                
+                Console.WriteLine();
+            }
+
         }
 
         static void ExibirClientePorCodigo(int codigo)
         {
-            Console.WriteLine("-- ExibirClientePorCodigo --");            
+            Console.WriteLine("-- ExibirClientePorCodigo --");
 
-            Console.WriteLine("X reside em Y");
+            var cliente = _clientes.FirstOrDefault(x => x.Codigo == codigo);
+
+            Console.WriteLine($"{cliente.Nome} reside em {cliente.Cidade}");
         }
 
     }
