@@ -1,0 +1,15 @@
+C:\Users\rodri\Documents\Desenvolvimento\analise\bin\Debug\net7.0\analise.exe
+C:\Users\rodri\Documents\Desenvolvimento\analise\bin\Debug\net7.0\analise.deps.json
+C:\Users\rodri\Documents\Desenvolvimento\analise\bin\Debug\net7.0\analise.runtimeconfig.json
+C:\Users\rodri\Documents\Desenvolvimento\analise\bin\Debug\net7.0\analise.dll
+C:\Users\rodri\Documents\Desenvolvimento\analise\bin\Debug\net7.0\analise.pdb
+C:\Users\rodri\Documents\Desenvolvimento\analise\obj\Debug\net7.0\analise.csproj.AssemblyReference.cache
+C:\Users\rodri\Documents\Desenvolvimento\analise\obj\Debug\net7.0\analise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\Documents\Desenvolvimento\analise\obj\Debug\net7.0\analise.AssemblyInfoInputs.cache
+C:\Users\rodri\Documents\Desenvolvimento\analise\obj\Debug\net7.0\analise.AssemblyInfo.cs
+C:\Users\rodri\Documents\Desenvolvimento\analise\obj\Debug\net7.0\analise.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Documents\Desenvolvimento\analise\obj\Debug\net7.0\analise.dll
+C:\Users\rodri\Documents\Desenvolvimento\analise\obj\Debug\net7.0\refint\analise.dll
+C:\Users\rodri\Documents\Desenvolvimento\analise\obj\Debug\net7.0\analise.pdb
+C:\Users\rodri\Documents\Desenvolvimento\analise\obj\Debug\net7.0\analise.genruntimeconfig.cache
+C:\Users\rodri\Documents\Desenvolvimento\analise\obj\Debug\net7.0\ref\analise.dll
