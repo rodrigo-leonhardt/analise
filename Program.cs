@@ -1,4 +1,6 @@
-﻿namespace Analise
+﻿using System.Linq;
+
+namespace Analise
 {
 
     class Program 
